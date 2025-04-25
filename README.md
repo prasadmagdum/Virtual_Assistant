@@ -22,7 +22,7 @@ Open index.html in your browser.
 Click the microphone icon and start speaking!
 
 Demo:
-file:///C:/Users/Prasad/Downloads/Virtual_Assistant/Assistant/index.html
+
 
 
 Future Improvements
