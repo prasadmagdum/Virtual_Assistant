@@ -21,8 +21,7 @@ Getting Started
 Open index.html in your browser.
 Click the microphone icon and start speaking!
 
-Demo:
-https://github.com/prasadmagdum/Virtual_Assistant/blob/55ecd1abec491f8d480e10a9422f30f23ae50668/Output.png
+Demo:https://github.com/prasadmagdum/Virtual_Assistant/blob/main/Output.png
 
 Future Improvements
 Add more commands (weather, news, jokes)
